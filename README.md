@@ -1,9 +1,9 @@
 ### Hi there 👋
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=220&text=welcome&fontAlignY=35&desc=호수'%20Github%20Profile&fontColor=ffffff&descAlign=60&descAlignY=47&descSize=20&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-Back-end Developer
+<div align=center>
+
+I'm Back-end Developer
   
   <br/>
 <b>📚Tech Stack📚</b> <br/><br/>
