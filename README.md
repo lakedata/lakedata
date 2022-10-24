@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=호수&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
 
