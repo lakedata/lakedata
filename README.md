@@ -1,5 +1,4 @@
 ### Hi there 👋 
-Introduction: https://www.notion.so/makeus-challenge/b64d9e3589994a5187d818a981b1078f?pvs=4
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=호수&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
