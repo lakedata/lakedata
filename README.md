@@ -12,7 +12,7 @@ I'm Back-end Developer
 <img src="https://komarev.com/ghpvc/?username=0112shpark&color=FF5200" alt="watching_count" /> 
 <br>
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.notion.so/hi-6b6d0606f58b4632ad3851d73f57ae70"><img src="https://img.shields.io/badge/notion-228B22?style=flat&logo==notion&logoColor=white"></a>
+<a href="https://towering-expansion-c8c.notion.site/hi-6b6d0606f58b4632ad3851d73f57ae70?pvs=4"><img src="https://img.shields.io/badge/notion-228B22?style=flat&logo==notion&logoColor=white"></a>
   
 <b>📚Tech Stack📚</b> <br/><br/>
   
