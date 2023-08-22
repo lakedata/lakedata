@@ -40,6 +40,7 @@ I'm Back-end Developer
 <img src="https://img.shields.io/badge/Git-FF4470?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio IDE-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
