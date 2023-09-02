@@ -5,7 +5,7 @@
 
 ## I'm Back-End Developer</b> 
   
-### ☁ My Profile ☁</b> 
+### 🌱 My Profile 🌱</b> 
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0112shpark&count_bg=%236FD052&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
@@ -14,7 +14,7 @@
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <br/><br/>
-### ☁ Tech Stack ☁ </b> 
+### 📚 Tech Stack 📚 </b> 
 
 ### Languages
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
