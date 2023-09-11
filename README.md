@@ -3,11 +3,7 @@
 
 <div align=center>
 
-### Readme</b> 
-Hello, I'm Back-End Developer.<br/>
-The ultimate goal of my development is to 'repeated moments of challenge to develop my own capabilities,' <br/>
-and I decided on the motto of 'starting anew, challenging long.'<br/>
-I will do my best at every stage to fulfill my responsibilities.
+#####  Hello, I'm Back-End Developer. <br/>The ultimate goal of my development is to 'repeated moments of challenge to develop my own capabilities,' <br/>and I decided on the motto of 'starting anew, challenging long.'<br/>I will do my best at every stage to fulfill my responsibilities.
 
   
 ### 🌱 My Profile 🌱</b> 
