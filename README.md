@@ -1,12 +1,14 @@
-### 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
-  
-### 🌱 My Profile 🌱</b> 
+
+### 🌱 My Profile 🌱</b>
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br/>
+<!-- Any image aligned to the right. Beware the width -->
+<img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br/><br/>
+
 ### 📚 Tech Stack 📚 </b> 
 
 ### Languages
