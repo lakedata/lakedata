@@ -7,6 +7,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
 <br/><br/>
 
 ### 📚 Tech Stack 📚 </b> 
@@ -42,7 +43,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OracleS-F80000?style=flat&logo=OracleS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-CC2927?style=flat&logo=MySql&logoColor=white"/></a>
-
+</div>
 <!--
 **lakedata/lakedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
