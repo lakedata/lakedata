@@ -4,10 +4,14 @@
 
 ### 🌱 My Profile 🌱</b>
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br/>
+
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+### 🔭 I’m currently working on
 ![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
+
+
 <br/><br/>
 
 ### 📚 Tech Stack 📚 </b> 
