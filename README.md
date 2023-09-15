@@ -4,6 +4,8 @@
 
 ### 🌱 My Profile 🌱</b>
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
