@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flate&logo=Android Studio&logoColor=white"/></a>
 <br/>
+<img src="https://img.shields.io/badge/Powered%20by-Unity-black?style=flat&logo=unity" /></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
