@@ -4,7 +4,8 @@
 <div align=center>
 
 ### 🌱 My Profile 🌱</b>
-<a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br/>
+<a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a> <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 
