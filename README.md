@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&&logo=intellijidea&logoColor=white"><br/>
 <br/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OracleS-F80000?style=flat&logo=OracleS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-CC2927?style=flat&logo=MySql&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
