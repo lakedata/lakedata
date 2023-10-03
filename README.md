@@ -1,22 +1,14 @@
-#### 👋 hello. I'm Back-end 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=6DB33F&width=435&lines=I'm+best+Back-End+developer)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
-
+ 
 ### 🌱 My Profile 🌱</b>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 <a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 <a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-### 🔭 I’m currently working on
-![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
-
-<br/><br/>
 
 ### 📚 Tech Stack 📚 </b> 
 <p><strong>Framework</strong></p>
@@ -41,6 +33,18 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+
+
+<br/><br/>
+<!-- Any image aligned to the right. Beware the width -->
+<img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+### 🔭 I’m currently working on
+![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
+
+
+
+
 
 </div>
 
