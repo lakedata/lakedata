@@ -4,8 +4,6 @@
 <div align=center>
  
 ### 🌱 My Profile 🌱</b>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakedata&count_bg=%231B41C3&title_bg=%23CF0A0A&icon=&icon_color=%23DD9B9B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 <a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
