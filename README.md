@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=99999999999999&color=6DB33F&width=435&lines=I'm+best+Back-End+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=99999999999999&color=6DB33F&width=435&lines=I'm+Back-End+developer)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
