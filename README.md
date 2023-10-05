@@ -6,9 +6,7 @@
 ### 🌱 My Profile 🌱</b>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
-<a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-<a href = "https://www.instagram.com/easyk4/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
+<a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
 ### 📚 Tech Stack 📚 </b> 
 <p><strong>Framework</strong></p>
@@ -30,7 +28,6 @@
 <p><strong>Tools</strong></p>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 
