@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=99999999999999&color=6DB33F&width=435&lines=I'm+Back-End+developer!)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <div align=center>
@@ -33,8 +32,6 @@
 
 
 <br/><br/>
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### 🔭 I’m currently working on
 ![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
