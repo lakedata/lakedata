@@ -3,10 +3,6 @@
 <div align=center>
  
 ### 🌱 My Profile 🌱</b>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
-<!-- <a href="https://easyk4.notion.site/Lee-Jiyoung-ad40a0feea9e4047b4012b6383ee0422?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> -->
-
 ### 📚 Tech Stack 📚 </b> 
 <p><strong>Framework</strong></p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>  
