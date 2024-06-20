@@ -1,54 +1,45 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-<div align=center>
- 
-### 🌱 My Profile 🌱</b>
-### 📚 Tech Stack 📚 </b> 
-<p><strong>Framework</strong></p>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>  
+### 🌟 My Goal
 
-<p><strong>Languages</strong></p>
-<img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-2F8D46?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+I am passionate about becoming a top-tier backend developer, dedicated to learning and innovating to build robust and scalable systems. 🚀
 
-<p><strong>Server</strong></p>
-<img src="https://img.shields.io/badge/Linux-9999FF?style=flat&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+### 📚 Tech Stack
 
-<p><strong>Database</strong></p>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Mysql-CC2927?style=flat&logo=MySql&logoColor=white"/>
- 
-<p><strong>Tools</strong></p>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+| **Frameworks**                                                                 | **Languages**                                                      | **Servers**                                                        | **Databases**                                                      | **Tools**                                                          |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white) | ![Java](https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) | ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-CC2927?style=flat&logo=MySQL&logoColor=white) | ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white) |
 
+<br/>
 
-<br/><br/>
+### 🏆 Awards
 
-### 🔭 I’m currently working on
-![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark)
+- 동덕여자대학교 제12회 소프트웨어 경진대회 우수상
+- UMC 4th DEMODAY 우수상
+- UMC Server-Springboot 스터디 우수상
+- 동덕여자대학교 진로·취업 경진대회 우수상
+- 청년뜰 청년정책제안공모전 최우수상
 
+### 🎓 Certifications
 
+SQLD, TOELC Speaking IH, 한자능력검정시험 3급
 
+### 💼 Experience
 
+| **Organization**              | **Role & Achievements**                                                                                       | **Period**            |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|
+| IT 연합 동아리 UMC             | FLAG 일정 조율 서비스 개발 및 런칭                                                                               | 2023.03 ~ 2023.08      |
+| ICT 멘토링 한이음               | MyData, Chatbot 서비스 개발                                                                                         | 2022.04.12 ~ 2022.11.30 |
+| 코드잇 코딩 캠프               | 매일 코딩 교육을 수강하여 자기 계발 습관 형성                                                                    | 2021.06.23 ~ 2021.07.22 |
+| SC제일은행-WISET Women in Fintech| 영유아 및 초등학생을 대상 자산관리 어플리케이션 제안              | 2020.10.12 ~ 2020.12.04 |
+| Tunchat 화상 영어 플랫폼 서포터즈| 온라인 영어 교육 서비스에 대한 콘텐츠 및 마케팅 활동                                                             | 20.08.01 ~ 20.08.31    |
+| 교내 스터디 지원 모두피움 프로그램 | CS과목 스터디 우수사례 공유장학금 수여                                                                          | 20.1학기 ~ 21.2학기     |
 
-</div>
+### 🔭 Current Focus
 
-<!--
-**lakedata/lakedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![lakedata's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakedata&show_icons=true&theme=dark&count_private=true&hide=issues)
 
-Here are some ideas to get you started:
+### 🏅 Algorithm Challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
+
