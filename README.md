@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 ### 🌟 My Goal
-
-I am passionate about becoming a top-tier backend developer, dedicated to learning and innovating to build robust and scalable systems. 🚀
+저는 학습과 혁신에 전념하며, 견고하고 확장 가능한 시스템을 구축하는 백엔드 개발자가 되고자 열정을 쏟고 있습니다. 🚀
 
 ### 📚 Tech Stack
 
