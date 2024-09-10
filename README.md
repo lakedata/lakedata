@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 ### 🌟 My Goal
-저는 학습과 혁신에 전념하며, 견고하고 확장 가능한 시스템을 구축하는 백엔드 개발자가 되고자 열정을 쏟고 있습니다. 🚀
+사용자 경험을 최적화하며 함께 성장하는 백엔드 개발자입니다. 
 
 ### 📚 Tech Stack
 
@@ -15,7 +15,7 @@
 
 - 교내 제12회 소프트웨어 경진대회 우수상
 - UMC 4th DEMODAY 우수상
-- UMC Server-Springboot 스터디 우수상
+- UMC Server 스터디 우수상
 - 교내 진로·취업 경진대회 우수상
 - 청년뜰 청년정책제안공모전 최우수상
 
