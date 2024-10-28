@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20To%20My%20Github%20Page!!&fontSize=40&fontAlign=70&fontAlignY=40&animation=twinkling)
-
 ### 시스템 통합을 꿈꾸는 백엔드 개발자입니다. 
 
 ####  Tech Stack
@@ -11,16 +9,14 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-CC2927?style=flat&logo=MySQL&logoColor=white) 
 
-<br/>
-
 ####  Experience
 
-- 2023.9 - 2023.11 **일정 조율 서비스** &nbsp; [Repo](https://github.com/lakedata/flag-app-back)
-- 2023.06 - 2023.08  **AI 여행 도우미 프로젝트** &nbsp; [Repo](https://github.com/trippack-voyage/voyage-back)
-- 2023.03 - 2023.06 **인테리어 쇼핑몰 프로젝트** &nbsp; [Repo](https://github.com/M2DM-project/M2DM.ver2.0)
-- 2021.9 - 2021.12  **정책 커뮤니티** [Repo](https://github.com/lakedata/Checkkeu)
+- 2023.9 - 2023.11 **AI 여행 도우미 서비스** &nbsp; [Repo](https://github.com/trippack-voyage/voyage-back)
+- 2023.6 - 2023.8  **일정 조율 서비스** &nbsp; [Repo](https://github.com/lakedata/flag-app-back)
+- 2023.3 - 2023.6 **인테리어 쇼핑몰 프로젝트** &nbsp; [Repo](https://github.com/M2DM-project/M2DM.ver2.0)
+- 2021.9 - 2021.12  **정책 커뮤니티 프로젝트** [Repo](https://github.com/lakedata/Checkkeu)
 
 
-### Algorithm Challenges
+#### Algorithm Challenges
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 
