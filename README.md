@@ -1,21 +1,11 @@
-####  클린 아키텍처를 꿈꾸는 백엔드 엔지니어입니다. 
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 
-####  Tech Stack
+### Dev
+[![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,gradle,hibernate,mysql,idea&theme=light)](https://skillicons.dev)
 
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C"></code>
-/
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"></code>
-/
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"></code>
-
+### Ops
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,py,git)](https://skillicons.dev)
 ---
 ####  Experience
 ##### **Java & Spring**
