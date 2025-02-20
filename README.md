@@ -15,5 +15,6 @@
 - 2021.9 - 2021.12  **정책 커뮤니티 프로젝트** [Repo](https://github.com/lakedata/Checkkeu)
 
 #### Certification
-<img src="https://github.com/user-attachments/assets/722998b0-c113-4aa2-853d-0399f0e74fc8" alt="AWS Developer" width="50" style="height:auto;"/>
-<img src="https://github.com/user-attachments/assets/ee49007e-6f15-488d-95ed-a8ce43e82380" width="50" style="height:auto;"/>
+<img src="https://github.com/user-attachments/assets/722998b0-c113-4aa2-853d-0399f0e74fc8" alt="AWS Developer" width="60" style="height:auto;"/>
+<img src="https://github.com/user-attachments/assets/ee49007e-6f15-488d-95ed-a8ce43e82380" width="60" style="height:auto;"/>
+<img src="https://github.com/user-attachments/assets/1af1049d-be7e-4547-8ddb-a5fc974260d8" width="60" style="height:auto;"/>
