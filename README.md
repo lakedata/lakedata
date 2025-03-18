@@ -1,18 +1,27 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldud2550)](https://solved.ac/wldud2550)
 
-### Dev
+#### Dev
 [![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,gradle,hibernate,mysql,idea&theme=light)](https://skillicons.dev)
 
-### Ops
+#### Ops
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,py,git)](https://skillicons.dev)
----
-####  Experience
-##### **Java & Spring**
-- 2023.9 - 2023.11 **AI 여행 도우미 서비스** &nbsp; [Repo](https://github.com/trippack-voyage/voyage-back)
-- 2023.6 - 2023.8  **일정 조율 서비스** &nbsp; [Repo](https://github.com/lakedata/flag-app-back)
-- 2023.3 - 2023.6 **인테리어 쇼핑몰 프로젝트** &nbsp; [Repo](https://github.com/M2DM-project/M2DM.ver2.0)
-- 2021.9 - 2021.12  **정책 커뮤니티 프로젝트** [Repo](https://github.com/lakedata/Checkkeu)
+
+
+#### Education
+<sub>__Major: Computer Science__  
+__Double Major: HCI Science__</sub>
+
+-  __CJ OLIVENETWORKS__  <sub>(2024.12 ~ 2025.02)<br/>
+`CLOUD WAVE`<br/>
+- __University MakeUs Challenge__  <sub>(2023.03 ~ 2023.08)<br/>
+`Backend Developer`<br/>
+- __ICT Mentoring__  <sub>(2022.04 ~ 2022.11)<br/>
+`aws & android`<br/>
+- __Codeit__  <sub>(2021.06 ~ 2021.07)<br/>
+`coding camp`<br/>
+- __Standard Chartered First Bank Korea__  <sub>(2020.10 ~ 2020.12)<br/>
+`Women in Fintech`<br/>
 
 #### Certification
 <img src="https://github.com/user-attachments/assets/722998b0-c113-4aa2-853d-0399f0e74fc8" alt="AWS Developer" width="60" style="height:auto;"/>
